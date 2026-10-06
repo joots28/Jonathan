@@ -63,7 +63,7 @@ Meu foco atual está em quatro tecnologias que quero levar cada vez mais a fundo
 
 ### 🧰 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,canva,visualstudio,androidstudio" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,canva,visualstudio,intellij" alt="Ferramentas"/>
 
 </div>
 
